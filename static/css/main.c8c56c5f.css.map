@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c8c56c5f.css","mappings":"AAAA,QACA,YAAa,CACb,QAAS,CACT,WAEA,CACA,OACI,WACJ","sources":["style.css"],"sourcesContent":[".movies{\r\ndisplay: flex;\r\ngap: 10px;\r\npadding:10p;\r\n\r\n}\r\n.image{\r\n    width:240px;\r\n}"],"names":[],"sourceRoot":""}
