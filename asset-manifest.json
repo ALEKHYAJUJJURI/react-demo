@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ALEKHYAJUJJURI/react-demo.git/static/css/main.c8c56c5f.css",
-    "main.js": "/ALEKHYAJUJJURI/react-demo.git/static/js/main.46a60a4e.js",
-    "index.html": "/ALEKHYAJUJJURI/react-demo.git/index.html",
-    "main.c8c56c5f.css.map": "/ALEKHYAJUJJURI/react-demo.git/static/css/main.c8c56c5f.css.map",
-    "main.46a60a4e.js.map": "/ALEKHYAJUJJURI/react-demo.git/static/js/main.46a60a4e.js.map"
+    "main.css": "/react-demo/static/css/main.c8c56c5f.css",
+    "main.js": "/react-demo/static/js/main.46a60a4e.js",
+    "index.html": "/react-demo/index.html",
+    "main.c8c56c5f.css.map": "/react-demo/static/css/main.c8c56c5f.css.map",
+    "main.46a60a4e.js.map": "/react-demo/static/js/main.46a60a4e.js.map"
   },
   "entrypoints": [
     "static/css/main.c8c56c5f.css",
